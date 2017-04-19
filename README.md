@@ -1,4 +1,4 @@
-# devops-hw2
+# Test Generation and improving coverage
 
 ## Coverage Report:
 
