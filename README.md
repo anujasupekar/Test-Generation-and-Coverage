@@ -2,4 +2,4 @@
 
 ## Coverage Report:
 
-![image] (https://github.ncsu.edu/asupeka/devops-hw2/blob/master/Coverage%20report.png)
+![image] (https://github.com/anujasupekar/Test-Generation-and-Coverage/blob/master/Coverage%20report.png)
